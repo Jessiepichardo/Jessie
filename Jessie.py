@@ -1,2 +1,6 @@
 
-print("Hello Jessie")
+def greet(name):
+	print(f"Hello {name}")
+
+# Example usage:
+greet("Jessie")
